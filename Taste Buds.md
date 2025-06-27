@@ -2,7 +2,22 @@
 
 Welcome to **Taste Buds**, a stylish and intuitive restaurant web application where **every bite tells a story**. This platform is built for hungry hearts craving a digital food adventure — from browsing menus to ordering your favorite dishes, it's all here in one seamless interface.
 
-![Taste Buds Banner](https://via.placeholder.com/800x300) <!-- Optional: Add a banner image -->
+---
+
+## 👨‍🍳 Developed By
+
+- Aryana Balasta
+- Raniel Fallarcuna  
+- Renedel Fallarcuna 
+- Rob Thomas Pomarejos  
+- Leo Andrew Gongora  
+- Gerald Ace Nazareno 
+
+---
+
+## 👨‍🍳 Submitted to:
+
+- Ms. Rodessa B. Bunag
 
 ---
 
