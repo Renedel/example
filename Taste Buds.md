@@ -6,12 +6,12 @@ Welcome to **Taste Buds**, a stylish and intuitive restaurant web application wh
 
 ## 👨‍🍳 Developed By
 
-- Aryana Balasta
-- Raniel Fallarcuna  
-- Renedel Fallarcuna 
-- Rob Thomas Pomarejos  
+- Aryana B. Balasta
+- Raniel B. Fallarcuna  
+- Renedel B. Fallarcuna 
+- Steven Angelo M. Comerciante 
 - Leo Andrew Gongora  
-- Gerald Ace Nazareno 
+- Gerald Ace V. Nazareno 
 
 ---
 
